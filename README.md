@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on JavaFx Applications and Websites<br>i'm looking to collaborate on Ditributed Quiz Application<br>i'm looking for help with Chat API<br>i,m currently learning Software Engineering, generative AI
+i'm currently working on JavaFx Applications and Websites<br>i'm looking for help with Chat API<br>i,m currently learning Software Engineering, generative AI
 
 
 ## 🌐 Socials:
